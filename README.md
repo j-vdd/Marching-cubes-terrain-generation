@@ -3,6 +3,7 @@ This is a project I made in 2021 and put on github in 2026. It uses webgl and ja
 
 ## Features
 - GPU-accelerated terrain generation, all density-map generation is done on the GPU
+- Layered Perlin noise for density data
 - Marching cubes (CPU)
 - Dynamic chunk generation
 - Generated textures on the GPU
