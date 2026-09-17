@@ -1,6 +1,8 @@
 # Marching cubes terrain generation
 This is a project I made in 2021 and put on github in 2026. It uses webgl and javascript to generate and display terrain. To run it, simply clone the repository and open the run.html file in your browser.
 
+<img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/9f542d76-41c0-4c32-b544-c97440452cac" />
+
 ## Features
 - GPU-accelerated terrain generation, all density-map generation is done on the GPU
 - Layered Perlin noise for density data
